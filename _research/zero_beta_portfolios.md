@@ -1,5 +1,5 @@
 ---
-title: "Testing, Comparing, and Investing with Zero-Beta (Factor-Neutral) Portfolios"
+title: "Zero-Beta (Factor-Neutral) Portfolios"
 collection: research
 category: working_papers
 #permalink: /research/zero_beta_portfolios
