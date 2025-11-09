@@ -56,7 +56,7 @@
 
     {% if post.collection == 'teaching' %}
       <!-- Added inline style to increase font size for teaching section -->
-      <div class="archive__item-excerpt" itemprop="description" style="font-size: 1.1rem;">{{ post.content | markdownify }}</div>
+      <div class="archive__item-excerpt" itemprop="description" style="font-size: 0.9rem;">{{ post.content | markdownify }}</div>
     {% elsif post.excerpt and site.read_more != 'enabled' %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
