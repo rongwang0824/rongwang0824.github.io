@@ -65,9 +65,3 @@
     font-weight: 700;
   }
 }
-
-/* --- ADDED CODE TO HIDE THE ICON --- */
-/* This rule finds the button (by its class) and hides it. */
-.masthead__menu-toggle {
-  display: none !important;
-}
