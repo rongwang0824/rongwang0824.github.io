@@ -1,7 +1,5 @@
 ---
 title: "Resolving the Zero-Beta Rate Puzzle"
-date: 2025-11-01
-note: "(Job Market Paper)"
 collection: research
 category: working_papers
 #permalink: /research/zero_beta_rate
@@ -10,7 +8,9 @@ excerpt: 'This paper resolves a long-standing zero-beta rate puzzle—the empiri
   * **Conferences:** AFA 2025 Ph.D. Poster Session
 #venue: 'Journal 1'
 #slidesurl: '/files/slides1.pdf'
+date: 2025-11-01
 link: '/files/ZeroBetaRate_Wang2025.pdf'
+subtitle: ', 2025 (Job Market Paper)'
 #bibtexurl: '/files/bibtex1.bib'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
