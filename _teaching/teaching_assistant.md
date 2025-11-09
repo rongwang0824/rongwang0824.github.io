@@ -9,8 +9,7 @@ linkable: false
 **Asset Pricing Theory (Ph.D.)**, Duke University
 Fall 2023, Fall 2024 with Ravi Bansal
 
-**Investment (MBA)**, Duke University
-Fall 2021, Spring 2022 with Nuno Clara, Fall 2023, Fall 2024 with Douglas Breeden
+**Investment (MBA)**, Duke University, Fall 2021, Spring 2022 with Nuno Clara, Fall 2023, Fall 2024 with Douglas Breeden
 
 **Venture Capital and Private Equity (MBA)**, Duke University
 Spring 2024, Spring 2025 with Narayan Naik
