@@ -64,7 +64,7 @@
 
 .archive__item-excerpt {
   margin-top: 0;
-  font-size: 1.2em;
+  font-size: $type-size-6;
 
   & + p {
     text-indent: 0;
@@ -151,7 +151,7 @@
 
     .archive__item-excerpt {
       display: block;
-      font-size: 1.2em;
+      font-size: $type-size-6;
     }
   }
 }
