@@ -54,13 +54,10 @@
         {% endcomment %}
         {% endif %}
 
-    {% if post.excerpt %}
-      {% assign excerpt_html = post.excerpt | markdownify %}
-      {% assign excerpt_html = excerpt_html | remove_first: '<p>' | remove_first: '</p>' %}
-      <p class="archive__item-excerpt" itemprop="description">{{ excerpt_html | strip }}</p>
-      {% if site.read_more == 'enabled' %}
-        <p><strong><a href="{{ base_path }}{{ post.url }}" rel="permalink">Read more</a></strong></p>
-      {% endif %}
+    {% if post.excerpt and site.read_more != 'enabled' %}
+    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+    {% elsif post.excerpt and site.read_more == 'enabled' %}
+    <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
     {% if post.citation and post.paperurl and post.slidesurl and post.bibtexurl %}
