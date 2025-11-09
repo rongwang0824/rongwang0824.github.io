@@ -4,12 +4,6 @@ permalink: /research/
 author_profile: true
 ---
 
-{% comment %}
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-{% endcomment %}
-
 {% include base_path %}
 
 {% if site.publication_category %}
@@ -23,11 +17,50 @@ author_profile: true
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single.html %}
+
+      <!-- Render linked title with inline date + note, then include the single template but suppress its title -->
+      <h3>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        {%- assign meta_parts = "" -%}
+        {%- if post.date -%}
+          {%- capture formatted_date -%}{{ post.date | date: "%B %Y" }}{%- endcapture -%}
+          {%- assign meta_parts = meta_parts | append: formatted_date -%}
+        {%- endif -%}
+        {%- if post.note -%}
+          {%- if meta_parts != "" -%}
+            {%- assign meta_parts = meta_parts | append: " " -%}
+          {%- endif -%}
+          {%- assign meta_parts = meta_parts | append: "(" | append: post.note | append: ")" -%}
+        {%- endif -%}
+        {%- if meta_parts != "" -%}
+          , {{ meta_parts }}
+        {%- endif -%}
+      </h3>
+
+      {% include archive-single.html suppress_title=true post=post %}
     {% endfor %}
   {% endfor %}
 {% else %}
   {% for post in site.research reversed %}
-    {% include archive-single.html %}
+
+    <h3>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      {%- assign meta_parts = "" -%}
+      {%- if post.date -%}
+        {%- capture formatted_date -%}{{ post.date | date: "%B %Y" }}{%- endcapture -%}
+        {%- assign meta_parts = meta_parts | append: formatted_date -%}
+      {%- endif -%}
+      {%- if post.note -%}
+        {%- if meta_parts != "" -%}
+          {%- assign meta_parts = meta_parts | append: " " -%}
+        {%- endif -%}
+        {%- assign meta_parts = meta_parts | append: "(" | append: post.note | append: ")" -%}
+      {%- endif -%}
+      {%- if meta_parts != "" -%}
+        , {{ meta_parts }}
+      {%- endif -%}
+    </h3>
+
+    {% include archive-single.html suppress_title=true post=post %}
   {% endfor %}
 {% endif %}
