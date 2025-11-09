@@ -10,7 +10,7 @@ excerpt: |
 date: 2025-01-01
 #venue: 'Journal 1'
 #slidesurl: '/files/slides1.pdf'
-link: '/files/Wang, Rong.Job Market Paper.2025.pdf'
+link: '/files/ZeroBetaRate_Wang2025.pdf'
 #bibtexurl: '/files/bibtex1.bib'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---

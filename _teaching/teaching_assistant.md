@@ -24,7 +24,3 @@ Fall 2021, Spring 2022, Spring 2023 with Adriano Rampini and Simon Gervais
 **Introductory Finance (Master)**, Duke University
 Fall 2021, Fall 2022 with Anna Cieslak, Fall 2023, Fall 2024 with Douglas Breeden
 
-**China Culture Cornevr, University of Oxford
-Host
-Hilary (spring) Term
-
