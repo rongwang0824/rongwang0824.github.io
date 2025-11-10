@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a sixth-year PhD candidate in Finance at the Fuqua School of Business, Duke University. My research focuses on empirical asset pricing, with particular emphasize on zero-beta rate and beta-neutral investment strategies. I also study the interaction between fiscal policy and financial markets.
+Welcome! I am a sixth-year PhD candidate in Finance at the Fuqua School of Business, Duke University. My primary research fields are empirical asset pricing and investment, focusing on risk pricing, financial market frictions, and the design of investment strategies. I also study the interaction between fiscal policy, macroeonomic conditions, and financial markets.
 
 **I am on the 2025-2026 academic job market.**
 
 <a href="/files/AcademicCV_Wang2025.pdf" style="color: blue; text-decoration: none;" target="_blank" rel="noopener noreferrer">Curriculum Vitae</a>
+
+<a href="/files/ResearchStatement_Wang2025.pdf" style="color: blue; text-decoration: none;" target="_blank" rel="noopener noreferrer">Research Statement</a>
 
 ## Contact
 * Email: rong.wang1996@duke.edu

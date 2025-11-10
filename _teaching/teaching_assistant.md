@@ -6,11 +6,10 @@ date: 2025-01-01
 linkable: false
 ---
 
-**Asset Pricing Theory (Ph.D.)**, 
-Fall 2023, Fall 2024 with Ravi Bansal [Problem sets]('https://www.rongwang.net/files/ProblemSets_PhDFinanceTheory.pdf')
+**Asset Pricing Theory (Ph.D.)**, Fall 2023, Fall 2024 with Ravi Bansal <a href="{{ '/files/ProblemSets_PhDFinanceTheory.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Problem sets</a>
 
 **Investment (MBA)**, 
-Fall 2021, Spring 2022 with Nuno Clara, Fall 2023, Fall 2024 with Douglas Breeden [Review slides]('https://www.rongwang.net/files/Slides_Investment_Review.pdf')
+Fall 2021, Spring 2022 with Nuno Clara, Fall 2023, Fall 2024 with Douglas Breeden <a href="{{ '/files/Slides_Investment_Review.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Review slides</a>
 
 **Venture Capital and Private Equity (MBA)**, 
 Spring 2024, Spring 2025 with Narayan Naik
