@@ -1,9 +1,8 @@
-
 ---
 title: "What Has Gone Wrong in the Best Factor Models"
 collection: research
 category: work_in_progress
-#permalink: /research/fiscal_shocks_beliefs
+#permalink: /research/factor_model_gone_wrong
 #excerpt: ''
 date: 2025-10-01
 linkable: false
