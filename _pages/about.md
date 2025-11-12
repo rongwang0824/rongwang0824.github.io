@@ -13,9 +13,7 @@ Welcome! I am a sixth-year PhD candidate in Finance at the Fuqua School of Busin
 
 <a href="/files/AcademicCV_Wang2025.pdf" style="color: blue; text-decoration: none;" target="_blank" rel="noopener noreferrer">Curriculum Vitae</a>
 
-<!--
 <a href="/files/ResearchStatement_Wang2025.pdf" style="color: blue; text-decoration: none;" target="_blank" rel="noopener noreferrer">Research Statement</a>
--->
 
 ## Contact
 * Email: rong.wang1996@duke.edu
