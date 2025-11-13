@@ -8,7 +8,7 @@ date: 2025-11-10
 #venue: 'Journal 1'
 #slidesurl: '/files/slides1.pdf'
 link: '/files/FactorNeutralInvesting_Wang2025.pdf'
-subtitle: ', Octobor 2025'
+subtitle: ', November 2025'
 #bibtexurl: '/files/bibtex1.bib'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
