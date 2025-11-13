@@ -9,7 +9,7 @@ excerpt: 'This paper resolves a long-standing zero-beta rate puzzle—the empiri
   * **Conferences:** AFA 2025 Ph.D. Poster Session'
 #venue: 'Journal 1'
 #slidesurl: '/files/slides1.pdf'
-date: 2025-11-01
+date: 2025-11-12
 link: '/files/ZeroBetaRate_Wang2025.pdf'
 subtitle: ', November 2025 (Job Market Paper)'
 #bibtexurl: '/files/bibtex1.bib'
