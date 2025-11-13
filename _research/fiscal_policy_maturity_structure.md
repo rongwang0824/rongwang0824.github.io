@@ -3,7 +3,7 @@ title: "Fiscal Policy and the Government Debt Maturity Structure"
 collection: research
 category: working_papers
 #permalink: /research/fiscal_policy_maturity_structure
-excerpt: 'This paper studies the attenuating effects of government debt maturity structure on the transmission of fiscal policy shocks. I use local projection methods with external instrumental variables to show that longer maturity or duration significantly dampens the output expansionary and in ationary effects of fiscal policy. A model of fiscal theory of price level is able to nicely rationalize my empirical findings. The main mechanism is that longer duration of the debt portfolio allows the government to exploit more capital gains against the private investors in face of a deficit shock, reducing the desire to inflate away existing debt.'
+excerpt: 'This paper investigates how the maturity structure of government debt influences the transmission of fiscal policy shocks. Using local projection methods combined with external instrumental variables, I find that a longer average maturity of government debt significantly attenuates the expansionary effects of fiscal policy on output and inflation. A theoretical model grounded in the fiscal theory of the price level provides a coherent interpretation of these empirical results. The key mechanism is that a longer debt maturity enables the government to realize greater capital gains on its outstanding  debt following a fiscal expansion, thereby reducing the incentive to generate inflationary pressures to erode the real value of debt.'
 date: 2023-01-01
 #venue: 'Journal 1'
 #slidesurl: '/files/slides1.pdf'
