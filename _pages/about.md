@@ -11,7 +11,7 @@ Welcome! I am a sixth-year PhD candidate in Finance at the Fuqua School of Busin
 
 **I am on the 2025-2026 academic job market.**
 
-**References:** <a href="https://sites.google.com/site/ancieslak/" target="_blank" rel="noopener noreferrer">Anna Cieslak (Co-Chair)</a>, <a href="https://www.paymonkhorrami.com/" target="_blank" rel="noopener noreferrer">Paymon Khorrami (Co-Chair)</a>, <a href="https://sites.google.com/view/ravibansal/" target="_blank" rel="noopener noreferrer">Ravi Bansal</a>
+**References:** <a href="https://sites.google.com/site/ancieslak/" target="_blank" rel="noopener noreferrer">Anna Cieslak (Co-Chair)</a>, <a href="https://www.paymonkhorrami.com/" target="_blank" rel="noopener noreferrer">Paymon Khorrami (Co-Chair)</a>, <a href="https://sites.google.com/view/ravibansal/" target="_blank" rel="noopener noreferrer">Ravi Bansal</a>, <a href="https://www.nunoclara.com/" target="_blank" rel="noopener noreferrer">Nuno Clara</a>
 
 <a href="/files/AcademicCV_Wang2025.pdf" style="color: blue; text-decoration: none;" target="_blank" rel="noopener noreferrer">Curriculum Vitae</a>
 
