@@ -1,5 +1,5 @@
 ---
-title: "Fiscal Shocks and Beliefs"
+title: "Fiscal Shocks, Beliefs, and Asset Prices"
 collection: research
 category: work_in_progress
 #permalink: /research/fiscal_shocks_beliefs
