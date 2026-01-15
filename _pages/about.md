@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a sixth-year PhD candidate in Finance at the Fuqua School of Business, Duke University. My primary research fields are empirical asset pricing and investment, focusing on risk pricing, financial market frictions, and the design of investment strategies. I also study the interaction between fiscal policy, macroeonomic conditions, and financial markets.
+Welcome! I am a sixth-year PhD candidate in Finance at the Fuqua School of Business, Duke University. My primary research fields are empirical asset pricing, focusing on risk pricing, financial market frictions, and investment strategies. I also study the interaction between fiscal policy, macroeconomic conditions, and financial markets.
 
 **I am on the 2025-2026 academic job market.**
 
