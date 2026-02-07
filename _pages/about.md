@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome! I am a sixth-year PhD candidate in Finance at the Fuqua School of Business, Duke University. My primary research fields are empirical asset pricing, focusing on risk pricing, financial market frictions, and investment strategies. I also study the interaction between fiscal policy, macroeconomic conditions, and financial markets.
 
-**I am on the 2025-2026 academic job market.**
+**I will join <a href="https://www.sem.tsinghua.edu.cn/en/" target="_blank" rel="noopener noreferrer">Tsinghua SEM</a> as an Assistant Professor of Finance in Fall 2026!**
 
 **References:** <a href="https://sites.google.com/site/ancieslak/" target="_blank" rel="noopener noreferrer">Anna Cieslak (Co-Chair)</a>, <a href="https://www.paymonkhorrami.com/" target="_blank" rel="noopener noreferrer">Paymon Khorrami (Co-Chair)</a>, <a href="https://sites.google.com/view/ravibansal/" target="_blank" rel="noopener noreferrer">Ravi Bansal</a>, <a href="https://www.nunoclara.com/" target="_blank" rel="noopener noreferrer">Nuno Clara</a>
 
