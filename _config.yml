@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Rong Wang"
 title_separator          : "-"
-name                     : &name "Rong Wang"
+name                     : &name "Rong Wang (汪融)"
 description              : &description "Personal academic website of Rong Wang, PhD Candidate at Duke University."
 url                      : https://rongwang0824.github.io # IMPORTANT: Replace this with your site's URL.
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
