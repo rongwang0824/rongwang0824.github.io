@@ -9,9 +9,9 @@ excerpt: 'This paper resolves a long-standing zero-beta rate puzzle—the empiri
   * **Conferences:** WFA 2026, SFS Cavalcade North America 2026, CES China 2026, AFA 2025 Ph.D. Poster Session'
 #venue: 'Journal 1'
 #slidesurl: '/files/slides1.pdf'
-date: 2026-01-07
+date: 2026-06-07
 link: '/files/ZeroBetaRate_Wang2026.pdf'
-subtitle: ', January 2026 (Job Market Paper)'
+subtitle: ', May 2026'
 #bibtexurl: '/files/bibtex1.bib'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
